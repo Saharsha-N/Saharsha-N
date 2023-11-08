@@ -1,7 +1,7 @@
 # 👨🏻‍💻 [Saharsha Navani](https://saharsha-navani.netlify.app) [@saharshanavani](https://saharsha-navani.netlify.app)
 
 [![GitHub followers](https://img.shields.io/github/followers/Saharsha-N?label=Follow&style=social)](https://github.com/Saharsha-N/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-email@anuragsingh.dev-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@anuragsingh.dev)](mailto:vansah2017@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-vansah2017@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@anuragsingh.dev)](mailto:vansah2017@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-c14438?style=social&logo=Telegram&logoColor=red&link=https://t.me/ashleymavericks)](https://t.me/ashleymavericks)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashleymavericks/)](https://www.linkedin.com/in/ashleymavericks/)
 [![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@ashleymavericks)](https://medium.com/@ashleymavericks)
