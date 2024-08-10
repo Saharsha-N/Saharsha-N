@@ -10,15 +10,6 @@
 
 :wave: Hello! I am a high school student at the Downingtown STEM Academy passionate about conputer science; I love building softwares and automating workflows to improve the lives of everyone around me. From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. Following best practices early on is the way to go and I'm a huge supporter of it.
 
-<div align="center">
-    <details>
-        <summary><b>GitHub Metrics👇🏻</b></summary>
-    <br>
-        
-<img src="https://metrics.lecoq.io/ashleymavericks?template=classic&isocalendar=1&followup=1&tweets=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=follower%2C%20gister%2C%20member%2C%20forker%2C%20inspirer%2C%20influencer%2C%20worker&tweets.attachments=false&tweets.limit=2&tweets.user=ashleymavericks&config.timezone=Asia%2FKolkata">
-    </details>
-</div>
-
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
