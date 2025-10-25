@@ -8,7 +8,7 @@
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow)](https://leetcode.com/ashleymavericks/)
 [![ProfileViews](https://komarev.com/ghpvc/?username=Saharsha-N&color=red&style=flat)](https://komarev.com/ghpvc/?username=Saharsha-N)
 
-:wave: Hello! I am a high school student at the Downingtown STEM Academy passionate about conputer science; I love building softwares and automating workflows to improve the lives of everyone around me. From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. Following best practices early on is the way to go and I'm a huge supporter of it.
+:wave: I am a current freshmen at UPenn studying computer science and general philosophy. Love doing AI research and building/proving out moonshot ideas. Reach out to me if you're working on the next generational innovation.
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
